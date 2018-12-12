@@ -1,0 +1,66 @@
+.navbar {
+  margin-bottom: 0;
+  background-color: #b3b3b3;
+  border: 0;
+  font-size: 13px;
+  letter-spacing: 4px;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  padding: 9px 9px;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #ec3f3f !important;
+  background-color: #666666 !important;
+}
+
+.logo {
+  height:30px;
+  width: auto;
+
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.acerca {
+  background-color: #787878;
+}
+
+.titulos {
+  margin-top: 0;
+  margin-bottom: 40px;
+}
+
+.logo-service {
+  font-size: 80px;
+}
+
+.bg-port {
+  background-color: #595959;
+}
+
+.thumbnail {
+  padding: 0 0 20px 0;
+  border: none;
+  border-radius: 0;
+}
+
+.thumbnail img {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.bg-footer {
+  background-color:#3c3c3c;
+  color: #ffffff;
+}
+
+.footer {
+  margin: 0;
+  padding: 0;
+}
